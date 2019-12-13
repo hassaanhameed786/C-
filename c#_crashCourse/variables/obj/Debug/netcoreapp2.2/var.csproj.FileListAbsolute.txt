@@ -1,0 +1,11 @@
+C:\Users\hassa\Documents\Code\var\obj\Debug\netcoreapp2.2\var.csprojAssemblyReference.cache
+C:\Users\hassa\Documents\Code\var\obj\Debug\netcoreapp2.2\var.csproj.CoreCompileInputs.cache
+C:\Users\hassa\Documents\Code\var\obj\Debug\netcoreapp2.2\var.AssemblyInfoInputs.cache
+C:\Users\hassa\Documents\Code\var\obj\Debug\netcoreapp2.2\var.AssemblyInfo.cs
+C:\Users\hassa\Documents\Code\var\bin\Debug\netcoreapp2.2\var.deps.json
+C:\Users\hassa\Documents\Code\var\bin\Debug\netcoreapp2.2\var.runtimeconfig.json
+C:\Users\hassa\Documents\Code\var\bin\Debug\netcoreapp2.2\var.runtimeconfig.dev.json
+C:\Users\hassa\Documents\Code\var\bin\Debug\netcoreapp2.2\var.dll
+C:\Users\hassa\Documents\Code\var\bin\Debug\netcoreapp2.2\var.pdb
+C:\Users\hassa\Documents\Code\var\obj\Debug\netcoreapp2.2\var.dll
+C:\Users\hassa\Documents\Code\var\obj\Debug\netcoreapp2.2\var.pdb

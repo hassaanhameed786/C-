@@ -1,0 +1,11 @@
+C:\Users\hassa\Documents\Code\functions\bin\Debug\netcoreapp2.2\functions.deps.json
+C:\Users\hassa\Documents\Code\functions\bin\Debug\netcoreapp2.2\functions.runtimeconfig.json
+C:\Users\hassa\Documents\Code\functions\bin\Debug\netcoreapp2.2\functions.runtimeconfig.dev.json
+C:\Users\hassa\Documents\Code\functions\bin\Debug\netcoreapp2.2\functions.dll
+C:\Users\hassa\Documents\Code\functions\bin\Debug\netcoreapp2.2\functions.pdb
+C:\Users\hassa\Documents\Code\functions\obj\Debug\netcoreapp2.2\functions.csprojAssemblyReference.cache
+C:\Users\hassa\Documents\Code\functions\obj\Debug\netcoreapp2.2\functions.csproj.CoreCompileInputs.cache
+C:\Users\hassa\Documents\Code\functions\obj\Debug\netcoreapp2.2\functions.AssemblyInfoInputs.cache
+C:\Users\hassa\Documents\Code\functions\obj\Debug\netcoreapp2.2\functions.AssemblyInfo.cs
+C:\Users\hassa\Documents\Code\functions\obj\Debug\netcoreapp2.2\functions.dll
+C:\Users\hassa\Documents\Code\functions\obj\Debug\netcoreapp2.2\functions.pdb
